@@ -20,7 +20,7 @@ How to install
 Clone the repository:
 
 ```bash
-git clone https://github.com/vdwees/tone_trace.git`
+> git clone https://github.com/vdwees/tone_trace.git`
 ```
 
 Install the module:
@@ -40,6 +40,6 @@ Windows:
 ```
 
 Unix-ish:
-```
+```bash
 > tone_trace my_python_file.py -p
 ```
