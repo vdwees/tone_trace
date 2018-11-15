@@ -26,7 +26,7 @@ Clone the repository:
 Install the module:
 
 ```bash
-> pip install tone_trace
+> pip install ./tone_trace/
 
 ```
 
